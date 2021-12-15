@@ -1,0 +1,46 @@
+{
+  "franquias" :[
+    {
+      "id": 1,
+      "nome" : "McDonalds",
+      "logo" :"endereço da imagem do McDonalds",
+      "categorias" : ["Restaurante","Fast-food", "Hamburguer"],
+      "enderecos" : [
+        {
+
+        },
+        {
+
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "nome" : "Kalunga",
+      "logo" :"endereço da imagem da Kalunga",
+      "categorias" : ["Papelaria", "Eletronicos", "Material Escolar"],
+      "enderecos" : []
+    },
+    {
+      "id": 3,
+      "nome" : "Daiso",
+      "logo" :"endereço da imagem da Daiso",
+      "categorias" : ["Variedades", "Utilidades Domésticas"],
+      "enderecos" : []
+    },
+    {
+      "id": 4,
+      "nome" : "Samsung",
+      "logo" :"endereço da imagem da Samsung",
+      "categorias" : ["Smartphones", "Tablets"],
+      "enderecos" : []
+    },
+    {
+      "id": 5,
+      "nome" : "C&A",
+      "logo" :"Logo C&A",
+      "categorias" : ["Roupas"],
+      "enderecos" : []
+    }
+  ]
+}
