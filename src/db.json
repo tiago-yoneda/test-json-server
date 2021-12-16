@@ -2,36 +2,73 @@
   "franquias": [
     {
       "id": 1,
-      "nome": "Americanas",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/5/50/Lojas_Americanas_Logo.svg",
+      "nome": "AAA Store",
+      "logo": "https://raw.githubusercontent.com/tiago-yoneda/test-json-server/main/src/assets/aaa_store_logo.png",
+      "logo_transparent": "https://raw.githubusercontent.com/tiago-yoneda/test-json-server/main/src/assets/aaa_store_logo_t.png",
       "categorias": [],
       "enderecos": []
     },
     {
       "id": 2,
-      "nome": "Livraria Saraiva",
-      "logo": "https://www.agenciaeplus.com.br/wp-content/uploads/2019/05/saraiva1.jpg",
+      "nome": "Ace Store",
+      "logo": "https://raw.githubusercontent.com/tiago-yoneda/test-json-server/main/src/assets/ace_store_logo.png",
+      "logo_transparent": "",
       "categorias": [],
       "enderecos": []
     },
     {
       "id": 3,
-      "nome": "Magazine Luiza",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Magalu_-_novo_logo.png",
+      "nome": "Many Games",
+      "logo": "https://raw.githubusercontent.com/tiago-yoneda/test-json-server/main/src/assets/many_games_logo.png",
+      "logo_transparent": "https://raw.githubusercontent.com/tiago-yoneda/test-json-server/main/src/assets/many_games_logo_t.png",
       "categorias": [],
       "enderecos": []
     },
     {
       "id": 4,
-      "nome": "Casas Bahia",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/9/97/Casas_Bahia_logo_2020.svg",
+      "nome": "Play Games",
+      "logo": "https://raw.githubusercontent.com/tiago-yoneda/test-json-server/main/src/assets/play_games_logo.png",
+      "logo_transparent": "https://raw.githubusercontent.com/tiago-yoneda/test-json-server/main/src/assets/play_games_logo_t.png",
       "categorias": [],
       "enderecos": []
     },
     {
       "id": 5,
-      "nome": "Ponto Frio",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Ponto_logo_2021.svg",
+      "nome": "Sea Jogos",
+      "logo": "https://raw.githubusercontent.com/tiago-yoneda/test-json-server/main/src/assets/sea_jogos.png",
+      "logo_transparent": "https://raw.githubusercontent.com/tiago-yoneda/test-json-server/main/src/assets/sea_jogos_t.png",
+      "categorias": [],
+      "enderecos": []
+    },
+    {
+      "id": 6,
+      "nome": "Sea Games",
+      "logo": "https://raw.githubusercontent.com/tiago-yoneda/test-json-server/main/src/assets/sea_store_logo.png",
+      "logo_transparent": "https://raw.githubusercontent.com/tiago-yoneda/test-json-server/main/src/assets/sea_store_logo_t.png",
+      "categorias": [],
+      "enderecos": []
+    },
+    {
+      "id": 7,
+      "nome": "Taverna Games",
+      "logo": "https://raw.githubusercontent.com/tiago-yoneda/test-json-server/main/src/assets/taverna_games_logo.png",
+      "logo_transparent": "https://raw.githubusercontent.com/tiago-yoneda/test-json-server/main/src/assets/taverna_games_logo_t.png",
+      "categorias": [],
+      "enderecos": []
+    },
+    {
+      "id": 8,
+      "nome": "Tech Games",
+      "logo": "https://raw.githubusercontent.com/tiago-yoneda/test-json-server/main/src/assets/tech_games.png",
+      "logo_transparent": "https://raw.githubusercontent.com/tiago-yoneda/test-json-server/main/src/assets/tech_games_t.png",
+      "categorias": [],
+      "enderecos": []
+    },
+    {
+      "id": 9,
+      "nome": "Wild Store",
+      "logo": "https://raw.githubusercontent.com/tiago-yoneda/test-json-server/main/src/assets/wild_store_logo.png",
+      "logo_transparent": "https://raw.githubusercontent.com/tiago-yoneda/test-json-server/main/src/assets/wild_store_logo_t.png",
       "categorias": [],
       "enderecos": []
     }
