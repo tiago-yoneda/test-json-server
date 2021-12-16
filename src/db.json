@@ -5,72 +5,144 @@
       "nome": "AAA Store",
       "logo": "https://raw.githubusercontent.com/tiago-yoneda/test-json-server/main/src/assets/aaa_store_logo.png",
       "logo_transparent": "https://raw.githubusercontent.com/tiago-yoneda/test-json-server/main/src/assets/aaa_store_logo_t.png",
-      "categorias": [],
-      "enderecos": []
+      "categorias": ["Video Games", "Retail", "Eletronics"],
+      "enderecos": [
+        {"text": "Av. Paulista, 2064 - Bela Vista, São Paulo - SP, 01310-928", "geo": "-23.557672619573825, -46.6587861883164"},
+        {"text": "Av. Paulista, 500 - Bela Vista, São Paulo - SP, 01310-000", "geo": "-23.56776334561749, -46.64808057981867"},
+        {"text": "Av. Paulista, 1499 Lojas 02 e 03 - Bela Vista, São Paulo, 01310-200", "geo": "-23.5622368566953, -46.65574320680579"},
+        {"text": "Av. Paulista, 2026 - Bela Vista, São Paulo - SP, 01310-200", "geo": "-23.558641323908482, -46.6591402399081"},
+        {"text": "Avenida Paulista, 854 LUC, 34 - S - Bela Vista, São Paulo, 01310-100", "geo": "-23.565548927333847, -46.65078060680578"},
+        {"text": "Piso Térreo, Av. Paulista, 1203 - Bela Vista, São Paulo, 01311-200", "geo": "-23.563293357486142, -46.6525436779703"},
+        {"text": "Alameda Santos, 1054 - Cerqueira César, São Paulo - SP, 01418-100", "geo": "-23.56576577636843, -46.65295256447675"}
+      ]
     },
     {
       "id": 2,
       "nome": "Ace Store",
       "logo": "https://raw.githubusercontent.com/tiago-yoneda/test-json-server/main/src/assets/ace_store_logo.png",
       "logo_transparent": "https://raw.githubusercontent.com/tiago-yoneda/test-json-server/main/src/assets/ace_store_logo_t.png",
-      "categorias": [],
-      "enderecos": []
+      "categorias": ["Video Games", "Computer Parts"],
+      "enderecos": [
+        {"text": "Av. Paulista, 810 - Bela Vista, São Paulo - SP, 01310-100", "geo": "-23.5658444489047, -46.65036155070805"},
+        {"text": "Av. Paulista, 1230 - Bela Vista, São Paulo - SP, 01310-100", "geo": "-23.563583411727695, -46.65305467797031"},
+        {"text": "Av. Paulista, 2034 - Bela Vista, São Paulo - SP, 01310-300", "geo": "-23.558498971200933, -46.65929434238804"},
+        {"text": "Av. Paulista, 1811 - Bela Vista, São Paulo - SP, 01311-200", "geo": "-23.56023875177397, -46.658026300059"},
+        {"text": "Av. Paulista, 1811 - Bela Vista, São Paulo - SP, 01311-200", "geo": "-23.560179729541822, -46.6580584886017"},
+        {"text": "Av. Paulista, 2064 - Cerqueira César, São Paulo - SP, 01310-928", "geo": "-23.557686448947297, -46.659125206038766"},
+        {"text": "Av. Paulista, 854 - Bela Vista, São Paulo - SP, 01310-913", "geo": "-23.565658388912528, -46.65077169346159"}
+      ]
     },
     {
       "id": 3,
       "nome": "Many Games",
       "logo": "https://raw.githubusercontent.com/tiago-yoneda/test-json-server/main/src/assets/many_games_logo.png",
       "logo_transparent": "https://raw.githubusercontent.com/tiago-yoneda/test-json-server/main/src/assets/many_games_logo_t.png",
-      "categorias": [],
-      "enderecos": []
+      "categorias": ["Video Games", "Gift Cards", "Accessories"],
+      "enderecos": [
+        {"text": "", "geo": ""},
+        {"text": "", "geo": ""},
+        {"text": "", "geo": ""},
+        {"text": "", "geo": ""},
+        {"text": "", "geo": ""},
+        {"text": "", "geo": ""},
+        {"text": "", "geo": ""}
+      ]
     },
     {
       "id": 4,
       "nome": "Play Games",
       "logo": "https://raw.githubusercontent.com/tiago-yoneda/test-json-server/main/src/assets/play_games_logo.png",
       "logo_transparent": "https://raw.githubusercontent.com/tiago-yoneda/test-json-server/main/src/assets/play_games_logo_t.png",
-      "categorias": [],
-      "enderecos": []
+      "categorias": ["Video Games", "Computer Parts"],
+      "enderecos": [
+        {"text": "", "geo": ""},
+        {"text": "", "geo": ""},
+        {"text": "", "geo": ""},
+        {"text": "", "geo": ""},
+        {"text": "", "geo": ""},
+        {"text": "", "geo": ""},
+        {"text": "", "geo": ""}
+      ]
     },
     {
       "id": 5,
       "nome": "Sea Jogos",
       "logo": "https://raw.githubusercontent.com/tiago-yoneda/test-json-server/main/src/assets/sea_jogos.png",
       "logo_transparent": "https://raw.githubusercontent.com/tiago-yoneda/test-json-server/main/src/assets/sea_jogos_t.png",
-      "categorias": [],
-      "enderecos": []
+      "categorias": ["Video Games", "Accessories"],
+      "enderecos": [
+        {"text": "", "geo": ""},
+        {"text": "", "geo": ""},
+        {"text": "", "geo": ""},
+        {"text": "", "geo": ""},
+        {"text": "", "geo": ""},
+        {"text": "", "geo": ""},
+        {"text": "", "geo": ""}
+      ]
     },
     {
       "id": 6,
       "nome": "Sea Games",
       "logo": "https://raw.githubusercontent.com/tiago-yoneda/test-json-server/main/src/assets/sea_store_logo.png",
       "logo_transparent": "https://raw.githubusercontent.com/tiago-yoneda/test-json-server/main/src/assets/sea_store_logo_t.png",
-      "categorias": [],
-      "enderecos": []
+      "categorias": ["Video Games"],
+      "enderecos": [
+        {"text": "", "geo": ""},
+        {"text": "", "geo": ""},
+        {"text": "", "geo": ""},
+        {"text": "", "geo": ""},
+        {"text": "", "geo": ""},
+        {"text": "", "geo": ""},
+        {"text": "", "geo": ""}
+      ]
     },
     {
       "id": 7,
       "nome": "Taverna Games",
       "logo": "https://raw.githubusercontent.com/tiago-yoneda/test-json-server/main/src/assets/taverna_games_logo.png",
       "logo_transparent": "https://raw.githubusercontent.com/tiago-yoneda/test-json-server/main/src/assets/taverna_games_logo_t.png",
-      "categorias": [],
-      "enderecos": []
+      "categorias": ["Video Games", "Board games"],
+      "enderecos": [
+        {"text": "", "geo": ""},
+        {"text": "", "geo": ""},
+        {"text": "", "geo": ""},
+        {"text": "", "geo": ""},
+        {"text": "", "geo": ""},
+        {"text": "", "geo": ""},
+        {"text": "", "geo": ""}
+      ]
     },
     {
       "id": 8,
       "nome": "Tech Games",
       "logo": "https://raw.githubusercontent.com/tiago-yoneda/test-json-server/main/src/assets/tech_games.png",
       "logo_transparent": "https://raw.githubusercontent.com/tiago-yoneda/test-json-server/main/src/assets/tech_games_t.png",
-      "categorias": [],
-      "enderecos": []
+      "categorias": ["Video Games", "VR Games"],
+      "enderecos": [
+        {"text": "", "geo": ""},
+        {"text": "", "geo": ""},
+        {"text": "", "geo": ""},
+        {"text": "", "geo": ""},
+        {"text": "", "geo": ""},
+        {"text": "", "geo": ""},
+        {"text": "", "geo": ""}
+      ]
     },
     {
       "id": 9,
       "nome": "Wild Store",
       "logo": "https://raw.githubusercontent.com/tiago-yoneda/test-json-server/main/src/assets/wild_store_logo.png",
       "logo_transparent": "https://raw.githubusercontent.com/tiago-yoneda/test-json-server/main/src/assets/wild_store_logo_t.png",
-      "categorias": [],
-      "enderecos": []
+      "categorias": ["Video Games", "Lan House", "Hamburger"],
+      "enderecos": [
+        {"text": "", "geo": ""},
+        {"text": "", "geo": ""},
+        {"text": "", "geo": ""},
+        {"text": "", "geo": ""},
+        {"text": "", "geo": ""},
+        {"text": "", "geo": ""},
+        {"text": "", "geo": ""}
+      ]
     }
   ]
 }
