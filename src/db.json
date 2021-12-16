@@ -12,7 +12,7 @@
       "id": 2,
       "nome": "Ace Store",
       "logo": "https://raw.githubusercontent.com/tiago-yoneda/test-json-server/main/src/assets/ace_store_logo.png",
-      "logo_transparent": "",
+      "logo_transparent": "https://raw.githubusercontent.com/tiago-yoneda/test-json-server/main/src/assets/ace_store_logo_t.png",
       "categorias": [],
       "enderecos": []
     },
