@@ -7,13 +7,13 @@
       "logo_transparent": "https://raw.githubusercontent.com/tiago-yoneda/test-json-server/main/src/assets/aaa_store_logo_t.png",
       "categorias": ["Video Games", "Retail", "Eletronics"],
       "enderecos": [
-        {"text": "Av. Paulista, 2064 - Bela Vista, São Paulo - SP, 01310-928", "geo": "-23.557672619573825, -46.6587861883164"},
-        {"text": "Av. Paulista, 500 - Bela Vista, São Paulo - SP, 01310-000", "geo": "-23.56776334561749, -46.64808057981867"},
-        {"text": "Av. Paulista, 1499 Lojas 02 e 03 - Bela Vista, São Paulo, 01310-200", "geo": "-23.5622368566953, -46.65574320680579"},
-        {"text": "Av. Paulista, 2026 - Bela Vista, São Paulo - SP, 01310-200", "geo": "-23.558641323908482, -46.6591402399081"},
-        {"text": "Avenida Paulista, 854 LUC, 34 - S - Bela Vista, São Paulo, 01310-100", "geo": "-23.565548927333847, -46.65078060680578"},
-        {"text": "Piso Térreo, Av. Paulista, 1203 - Bela Vista, São Paulo, 01311-200", "geo": "-23.563293357486142, -46.6525436779703"},
-        {"text": "Alameda Santos, 1054 - Cerqueira César, São Paulo - SP, 01418-100", "geo": "-23.56576577636843, -46.65295256447675"}
+        {"text": "Av. Paulista, 2064 - Bela Vista, São Paulo - SP, 01310-928", "lat": "-23.557672619573825", "long": "-46.6587861883164"},
+        {"text": "Av. Paulista, 500 - Bela Vista, São Paulo - SP, 01310-000", "lat": "-23.56776334561749", "long": "-46.64808057981867"},
+        {"text": "Av. Paulista, 1499 Lojas 02 e 03 - Bela Vista, São Paulo, 01310-200", "lat": "-23.5622368566953", "long": "-46.65574320680579"},
+        {"text": "Av. Paulista, 2026 - Bela Vista, São Paulo - SP, 01310-200", "lat": "-23.558641323908482", "long": "-46.6591402399081"},
+        {"text": "Avenida Paulista, 854 LUC, 34 - S - Bela Vista, São Paulo, 01310-100", "lat": "-23.565548927333847", "long": "-46.65078060680578"},
+        {"text": "Piso Térreo, Av. Paulista, 1203 - Bela Vista, São Paulo, 01311-200", "lat": "-23.563293357486142", "long": "-46.6525436779703"},
+        {"text": "Alameda Santos, 1054 - Cerqueira César, São Paulo - SP, 01418-100", "lat": "-23.56576577636843", "long": "-46.65295256447675"}
       ]
     },
     {
@@ -23,13 +23,13 @@
       "logo_transparent": "https://raw.githubusercontent.com/tiago-yoneda/test-json-server/main/src/assets/ace_store_logo_t.png",
       "categorias": ["Video Games", "Computer Parts"],
       "enderecos": [
-        {"text": "Av. Paulista, 810 - Bela Vista, São Paulo - SP, 01310-100", "geo": "-23.5658444489047, -46.65036155070805"},
-        {"text": "Av. Paulista, 1230 - Bela Vista, São Paulo - SP, 01310-100", "geo": "-23.563583411727695, -46.65305467797031"},
-        {"text": "Av. Paulista, 2034 - Bela Vista, São Paulo - SP, 01310-300", "geo": "-23.558498971200933, -46.65929434238804"},
-        {"text": "Av. Paulista, 1811 - Bela Vista, São Paulo - SP, 01311-200", "geo": "-23.56023875177397, -46.658026300059"},
-        {"text": "Av. Paulista, 1811 - Bela Vista, São Paulo - SP, 01311-200", "geo": "-23.560179729541822, -46.6580584886017"},
-        {"text": "Av. Paulista, 2064 - Cerqueira César, São Paulo - SP, 01310-928", "geo": "-23.557686448947297, -46.659125206038766"},
-        {"text": "Av. Paulista, 854 - Bela Vista, São Paulo - SP, 01310-913", "geo": "-23.565658388912528, -46.65077169346159"}
+        {"text": "Av. Paulista, 810 - Bela Vista, São Paulo - SP, 01310-100", "lat": "-23.5658444489047", "long": "-46.65036155070805"},
+        {"text": "Av. Paulista, 1230 - Bela Vista, São Paulo - SP, 01310-100", "lat": "-23.563583411727695", "long": "-46.65305467797031"},
+        {"text": "Av. Paulista, 2034 - Bela Vista, São Paulo - SP, 01310-300", "lat": "-23.558498971200933", "long": "-46.65929434238804"},
+        {"text": "Av. Paulista, 1811 - Bela Vista, São Paulo - SP, 01311-200", "lat": "-23.56023875177397", "long": "-46.658026300059"},
+        {"text": "Av. Paulista, 1811 - Bela Vista, São Paulo - SP, 01311-200", "lat": "-23.560179729541822", "long": "-46.6580584886017"},
+        {"text": "Av. Paulista, 2064 - Cerqueira César, São Paulo - SP, 01310-928", "lat": "-23.557686448947297", "long": "-46.659125206038766"},
+        {"text": "Av. Paulista, 854 - Bela Vista, São Paulo - SP, 01310-913", "lat": "-23.565658388912528", "long": "-46.65077169346159"}
       ]
     },
     {
@@ -39,13 +39,13 @@
       "logo_transparent": "https://raw.githubusercontent.com/tiago-yoneda/test-json-server/main/src/assets/many_games_logo_t.png",
       "categorias": ["Video Games", "Gift Cards", "Accessories"],
       "enderecos": [
-        {"text": "Avenida Paulista, 2001 - Loja 68 Galeria 2001, São Paulo - SP, 01310-300", "geo": "-23.558735738686796, -46.65922838099198"},
-        {"text": "Av. Paulista, 1471 - Loja 26 - Bela Vista, São Paulo - SP, 01311-200", "geo": "-23.561981115354502, -46.65549474624455"},
-        {"text": "Av. Paulista, 2073 - Loja 100 - Bela Vista, São Paulo - SP, 01311-300", "geo": "-23.557889960691398, -46.66045146823682"},
-        {"text": "Top Center - Avenida Paulista, 854 - Piso Térreo - Bela Vista, São Paulo - SP, 01310-100", "geo": "-23.56524608007693, -46.65077405863286"},
-        {"text": "Av. Paulista, 2300 Andar Pilotis - Consolação, São Paulo - SP, 01310-300", "geo": "-23.556296736193854, -46.66077333330126"},
-        {"text": "Av. Paulista, 1230 - Bela Vista, São Paulo - SP, 01310-100", "geo": "-23.562984215561052, -46.65270524901946"},
-        {"text": "Av. Paulista, 2001 - 04/05 - Bela Vista, São Paulo - SP, 01310-200", "geo": "-23.558873422961515, -46.65942150003063"}
+        {"text": "Avenida Paulista, 2001 - Loja 68 Galeria 2001, São Paulo - SP, 01310-300", "lat": "-23.558735738686796", "long": "-46.65922838099198"},
+        {"text": "Av. Paulista, 1471 - Loja 26 - Bela Vista, São Paulo - SP, 01311-200", "lat": "-23.561981115354502", "long": "-46.65549474624455"},
+        {"text": "Av. Paulista, 2073 - Loja 100 - Bela Vista, São Paulo - SP, 01311-300", "lat": "-23.557889960691398", "long": "-46.66045146823682"},
+        {"text": "Top Center - Avenida Paulista, 854 - Piso Térreo - Bela Vista, São Paulo - SP, 01310-100", "lat": "-23.56524608007693", "long": "-46.65077405863286"},
+        {"text": "Av. Paulista, 2300 Andar Pilotis - Consolação, São Paulo - SP, 01310-300", "lat": "-23.556296736193854", "long": "-46.66077333330126"},
+        {"text": "Av. Paulista, 1230 - Bela Vista, São Paulo - SP, 01310-100", "lat": "-23.562984215561052", "long": "-46.65270524901946"},
+        {"text": "Av. Paulista, 2001 - 04/05 - Bela Vista, São Paulo - SP, 01310-200", "lat": "-23.558873422961515", "long": "-46.65942150003063"}
       ]
     },
     {
@@ -55,13 +55,13 @@
       "logo_transparent": "https://raw.githubusercontent.com/tiago-yoneda/test-json-server/main/src/assets/play_games_logo_t.png",
       "categorias": ["Video Games", "Computer Parts"],
       "enderecos": [
-        {"text": "Av. Paulista, 1636 - conjunto 1504 - Cerqueira César, São Paulo - SP, 01310-200", "geo": "-23.560663182864513, -46.65641742642955"},
-        {"text": "Av. Paulista, 2163 - Bela Vista, São Paulo - SP, 01311-933", "geo": "-23.55785049950509, -46.66092353733162"},
-        {"text": "Av. Paulista, 436 - Bela Vista, São Paulo - SP, 01310-000", "geo": "-23.56800971879734, -46.6475358848941"},
-        {"text": "Av. Paulista, 453 - Paraíso, São Paulo - SP, 01311-000", "geo": "-23.56867842242976, -46.648351276390684"},
-        {"text": "Av. Paulista, 949 A - Bela Vista, São Paulo - SP, 01311-100", "geo": "-23.56525619738169, -46.651720130731746"},
-        {"text": "Av. Paulista, 2300 - Consolação, São Paulo - SP, 01310-300", "geo": "-23.556188836686843, -46.66118296391074"},
-        {"text": "Av. Paulista, 2212 - Bela Vista, São Paulo - SP, 01310-300", "geo": "-23.558552229094637, -46.65951243031519"}
+        {"text": "Av. Paulista, 1636 - conjunto 1504 - Cerqueira César, São Paulo - SP, 01310-200", "lat": "-23.560663182864513", "long": "-46.65641742642955"},
+        {"text": "Av. Paulista, 2163 - Bela Vista, São Paulo - SP, 01311-933", "lat": "-23.55785049950509", "long": "-46.66092353733162"},
+        {"text": "Av. Paulista, 436 - Bela Vista, São Paulo - SP, 01310-000", "lat": "-23.56800971879734", "long": "-46.6475358848941"},
+        {"text": "Av. Paulista, 453 - Paraíso, São Paulo - SP, 01311-000", "lat": "-23.56867842242976", "long": "-46.648351276390684"},
+        {"text": "Av. Paulista, 949 A - Bela Vista, São Paulo - SP, 01311-100", "lat": "-23.56525619738169", "long": "-46.651720130731746"},
+        {"text": "Av. Paulista, 2300 - Consolação, São Paulo - SP, 01310-300", "lat": "-23.556188836686843", "long": "-46.66118296391074"},
+        {"text": "Av. Paulista, 2212 - Bela Vista, São Paulo - SP, 01310-300", "lat": "-23.558552229094637", "long": "-46.65951243031519"}
       ]
     },
     {
@@ -71,13 +71,13 @@
       "logo_transparent": "https://raw.githubusercontent.com/tiago-yoneda/test-json-server/main/src/assets/sea_jogos_t.png",
       "categorias": ["Video Games", "Accessories"],
       "enderecos": [
-        {"text": "Av. Paulista, 810 - Bela Vista, São Paulo - SP, 01310-100", "geo": "-23.565570249404555, -46.650367579851604"},
-        {"text": "Av. Paulista, 358 - Bela Vista, São Paulo - SP, 01310-000", "geo": "-23.56840243530667, -46.64695580994068"},
-        {"text": "Av. Paulista, 807 - Conj. 2315 - 23º andar - Bela Vista, São Paulo - SP, 01311-100", "geo": "-23.56642749961137, -46.65103624782487"},
-        {"text": "Av. Paulista, 1230 - Bela Vista, São Paulo - SP, 01310-100", "geo": "-23.563597354800567, -46.65293731027568"},
-        {"text": "Av. Paulista, 1904 - Bela Vista, São Paulo - SP, 01310-200", "geo": "-23.5591298120571, -46.65829600961882"},
-        {"text": "Av. Paulista, 2064 - Cerqueira César, São Paulo - SP, 01310-928", "geo": "-23.557352108818936, -46.659291196719984"},
-        {"text": "Av. Paulista, 2113 - Consolação, São Paulo - SP, 01311-300", "geo": "-23.55820587716656, -46.66015879564923"}
+        {"text": "Av. Paulista, 810 - Bela Vista, São Paulo - SP, 01310-100", "lat": "-23.565570249404555", "long": "-46.650367579851604"},
+        {"text": "Av. Paulista, 358 - Bela Vista, São Paulo - SP, 01310-000", "lat": "-23.56840243530667", "long": "-46.64695580994068"},
+        {"text": "Av. Paulista, 807 - Conj. 2315 - 23º andar - Bela Vista, São Paulo - SP, 01311-100", "lat": "-23.56642749961137", "long": "-46.65103624782487"},
+        {"text": "Av. Paulista, 1230 - Bela Vista, São Paulo - SP, 01310-100", "lat": "-23.563597354800567", "long": "-46.65293731027568"},
+        {"text": "Av. Paulista, 1904 - Bela Vista, São Paulo - SP, 01310-200", "lat": "-23.5591298120571", "long": "-46.65829600961882"},
+        {"text": "Av. Paulista, 2064 - Cerqueira César, São Paulo - SP, 01310-928", "lat": "-23.557352108818936", "long": "-46.659291196719984"},
+        {"text": "Av. Paulista, 2113 - Consolação, São Paulo - SP, 01311-300", "lat": "-23.55820587716656", "long": "-46.66015879564923"}
       ]
     },
     {
@@ -87,13 +87,13 @@
       "logo_transparent": "https://raw.githubusercontent.com/tiago-yoneda/test-json-server/main/src/assets/sea_store_logo_t.png",
       "categorias": ["Video Games"],
       "enderecos": [
-        {"text": "Av. Paulista, 497 - Paraíso, São Paulo - SP, 01310-000", "geo": "-23.567971189228988, -46.648599315630165"},
-        {"text": "Av. Paulista, 1009 - Bela Vista, São Paulo - SP, 01310-100", "geo": "-23.565308214646613, -46.65229978930062"},
-        {"text": "Av. Paulista, 960 - Bela Vista, São Paulo - SP, 01333-904", "geo": "-23.564835357976715, -46.65157907823526"},
-        {"text": "Av. Paulista, 1471 - Loja 3 - Bela Vista, São Paulo - SP, 01332-040", "geo": "-23.562352832595145, -46.65570609752117"},
-        {"text": "Av. Paulista, 1499 - Loja 6 - Bela Vista, São Paulo - SP, 01311-200", "geo": "-23.562157052451916, -46.65582719328878"},
-        {"text": "Av. Paulista, 1765 - Paraíso, São Paulo - SP, 01311-930", "geo": "-23.560585455190992, -46.65786794358365"},
-        {"text": "Av. Paulista, 2073 - Consolação, São Paulo - SP, 01311-300", "geo": "-23.55849804607167, -46.66003026635972"}
+        {"text": "Av. Paulista, 497 - Paraíso, São Paulo - SP, 01310-000", "lat": "-23.567971189228988", "long": "-46.648599315630165"},
+        {"text": "Av. Paulista, 1009 - Bela Vista, São Paulo - SP, 01310-100", "lat": "-23.565308214646613", "long": "-46.65229978930062"},
+        {"text": "Av. Paulista, 960 - Bela Vista, São Paulo - SP, 01333-904", "lat": "-23.564835357976715", "long": "-46.65157907823526"},
+        {"text": "Av. Paulista, 1471 - Loja 3 - Bela Vista, São Paulo - SP, 01332-040", "lat": "-23.562352832595145", "long": "-46.65570609752117"},
+        {"text": "Av. Paulista, 1499 - Loja 6 - Bela Vista, São Paulo - SP, 01311-200", "lat": "-23.562157052451916", "long": "-46.65582719328878"},
+        {"text": "Av. Paulista, 1765 - Paraíso, São Paulo - SP, 01311-930", "lat": "-23.560585455190992", "long": "-46.65786794358365"},
+        {"text": "Av. Paulista, 2073 - Consolação, São Paulo - SP, 01311-300", "lat": "-23.55849804607167", "long": "-46.66003026635972"}
       ]
     },
     {
@@ -103,13 +103,13 @@
       "logo_transparent": "https://raw.githubusercontent.com/tiago-yoneda/test-json-server/main/src/assets/taverna_games_logo_t.png",
       "categorias": ["Video Games", "Board games"],
       "enderecos": [
-        {"text": "Av. Paulista, 648 - Loja 1 - Bela Vista, São Paulo - SP, 01310-100", "geo": "-23.56703743082752, -46.64925753203906"},
-        {"text": "Av. Paulista, 810 - Bela Vista, São Paulo - SP, 01310-100", "geo": "-23.565848347832716, -46.65055481196628"},
-        {"text": "Av. Paulista, 726 - Loja 13 - Bela Vista, São Paulo - SP, 01310-100", "geo": "-23.56646722861445, -46.64950788436422"},
-        {"text": "Av. Paulista, 1159 - 7 - Bela Vista, São Paulo - SP, 01311-200", "geo": "-23.564304609951506, -46.65343006993653"},
-        {"text": "Av. Paulista, 123456 - Centro Histórico de São Paulo, São Paulo - SP, 01311-300", "geo": "-23.56339086296291, -46.65443688303635"},
-        {"text": "Av. Paulista, 1499 - Loja 58 - Bela Vista, São Paulo - SP, 01311-200", "geo": "-23.56221565481162, -46.65584037301608"},
-        {"text": "2114, Av. Paulista, 2040 - Bela Vista, São Paulo - SP, 01310-200", "geo": "-23.558474389599215, -46.65938323709699"}
+        {"text": "Av. Paulista, 648 - Loja 1 - Bela Vista, São Paulo - SP, 01310-100", "lat": "-23.56703743082752", "long": "-46.64925753203906"},
+        {"text": "Av. Paulista, 810 - Bela Vista, São Paulo - SP, 01310-100", "lat": "-23.565848347832716", "long": "-46.65055481196628"},
+        {"text": "Av. Paulista, 726 - Loja 13 - Bela Vista, São Paulo - SP, 01310-100", "lat": "-23.56646722861445", "long": "-46.64950788436422"},
+        {"text": "Av. Paulista, 1159 - 7 - Bela Vista, São Paulo - SP, 01311-200", "lat": "-23.564304609951506", "long": "-46.65343006993653"},
+        {"text": "Av. Paulista, 123456 - Centro Histórico de São Paulo, São Paulo - SP, 01311-300", "lat": "-23.56339086296291", "long": "-46.65443688303635"},
+        {"text": "Av. Paulista, 1499 - Loja 58 - Bela Vista, São Paulo - SP, 01311-200", "lat": "-23.56221565481162", "long": "-46.65584037301608"},
+        {"text": "2114, Av. Paulista, 2040 - Bela Vista, São Paulo - SP, 01310-200", "lat": "-23.558474389599215", "long": "-46.65938323709699"}
       ]
     },
     {
@@ -119,13 +119,13 @@
       "logo_transparent": "https://raw.githubusercontent.com/tiago-yoneda/test-json-server/main/src/assets/tech_games_t.png",
       "categorias": ["Video Games", "VR Games"],
       "enderecos": [
-        {"text": "Av. Paulista, 266 - Bela Vista, São Paulo - SP, 01310-000", "geo": "-23.5691661867283, -46.64639242157031"},
-        {"text": "Av. Brigadeiro Luís Antônio, 2215 - Bela Vista, São Paulo - SP, 01317-002", "geo": "-23.567235951501146, -46.648729665004495"},
-        {"text": "Av. Paulista, 807 - Bela Vista, São Paulo - SP, 01311-100", "geo": "-23.566319773639172, -46.650864722591784"},
-        {"text": "Av. Paulista, 995 - Bela Vista, São Paulo - SP, 01311-100", "geo": "-23.565346250877845, -46.65216958895133"},
-        {"text": "Av. Paulista, 1227 - L 01 - Bela Vista, São Paulo - SP, 01311-200", "geo": "-23.563851183996178, -46.65391446842079"},
-        {"text": "Av. Paulista, 2073 - LJ 107 - Cerqueira César, São Paulo - SP, 01311-300", "geo": "-23.558600930612272, -46.65993050957764"},
-        {"text": "Av. Paulista, 2408 - Bela Vista, São Paulo - SP, 01310-300", "geo": "-23.556197682854236, -46.661899240979686"}
+        {"text": "Av. Paulista, 266 - Bela Vista, São Paulo - SP, 01310-000", "lat": "-23.5691661867283", "long": "-46.64639242157031"},
+        {"text": "Av. Brigadeiro Luís Antônio, 2215 - Bela Vista, São Paulo - SP, 01317-002", "lat": "-23.567235951501146", "long": "-46.648729665004495"},
+        {"text": "Av. Paulista, 807 - Bela Vista, São Paulo - SP, 01311-100", "lat": "-23.566319773639172", "long": "-46.650864722591784"},
+        {"text": "Av. Paulista, 995 - Bela Vista, São Paulo - SP, 01311-100", "lat": "-23.565346250877845", "long": "-46.65216958895133"},
+        {"text": "Av. Paulista, 1227 - L 01 - Bela Vista, São Paulo - SP, 01311-200", "lat": "-23.563851183996178", "long": "-46.65391446842079"},
+        {"text": "Av. Paulista, 2073 - LJ 107 - Cerqueira César, São Paulo - SP, 01311-300", "lat": "-23.558600930612272", "long": "-46.65993050957764"},
+        {"text": "Av. Paulista, 2408 - Bela Vista, São Paulo - SP, 01310-300", "lat": "-23.556197682854236", "long": "-46.661899240979686"}
       ]
     },
     {
@@ -135,13 +135,13 @@
       "logo_transparent": "https://raw.githubusercontent.com/tiago-yoneda/test-json-server/main/src/assets/wild_store_logo_t.png",
       "categorias": ["Video Games", "Lan House", "Hamburger"],
       "enderecos": [
-        {"text": "Av. Paulista, 2439 - 7° andar - Bela Vista, São Paulo - SP, 01311-300", "geo": "-23.556335096205327, -46.66254279370243"},
-        {"text": "Av. Paulista, 2313 - Sobreloja - Cerqueira César, São Paulo - SP, 01311-300", "geo": "-23.556994024536422, -46.66182396172518"},
-        {"text": "Av. Paulista, 2073 - Cerqueira César, São Paulo - SP, 01311-940", "geo": "-23.558538067534354, -46.659860584832145"},
-        {"text": "Av. Paulista, 1963 - Bela Vista, São Paulo - SP, 01311-300", "geo": "-23.559246157618336, -46.65910956634847"},
-        {"text": "Av. Paulista, 1754 - 12 Andar - Bela Vista, São Paulo - SP, 01310-920", "geo": "-23.560190271842583, -46.65730712182568"},
-        {"text": "1373, Av. Paulista, 1345 - Bela Vista, São Paulo - SP, 01311-200", "geo": "-23.563042242258327, -46.65478584539044"},
-        {"text": "Av. Paulista, 925 - Bela Vista, São Paulo - SP, 01310-100", "geo": "-23.56560896271211, -46.65164229645795"}
+        {"text": "Av. Paulista, 2439 - 7° andar - Bela Vista, São Paulo - SP, 01311-300", "lat": "-23.556335096205327", "long": "-46.66254279370243"},
+        {"text": "Av. Paulista, 2313 - Sobreloja - Cerqueira César, São Paulo - SP, 01311-300", "lat": "-23.556994024536422", "long": "-46.66182396172518"},
+        {"text": "Av. Paulista, 2073 - Cerqueira César, São Paulo - SP, 01311-940", "lat": "-23.558538067534354", "long": "-46.659860584832145"},
+        {"text": "Av. Paulista, 1963 - Bela Vista, São Paulo - SP, 01311-300", "lat": "-23.559246157618336", "long": "-46.65910956634847"},
+        {"text": "Av. Paulista, 1754 - 12 Andar - Bela Vista, São Paulo - SP, 01310-920", "lat": "-23.560190271842583", "long": "-46.65730712182568"},
+        {"text": "1373, Av. Paulista, 1345 - Bela Vista, São Paulo - SP, 01311-200", "lat": "-23.563042242258327", "long": "-46.65478584539044"},
+        {"text": "Av. Paulista, 925 - Bela Vista, São Paulo - SP, 01310-100", "lat": "-23.56560896271211", "long": "-46.65164229645795"}
       ]
     }
   ]
