@@ -7,7 +7,7 @@
       "logo_transparent": "https://raw.githubusercontent.com/tiago-yoneda/test-json-server/main/src/assets/aaa_store_logo_t.png",
       "categorias": ["Video Games", "Retail", "Eletronics"],
       "enderecos": [
-        {"text": "Av. Paulista, 2064 - Bela Vista, São Paulo - SP, 01310-928", "lat": "-23.557672619573825", "long": "-46.6587861883164"},
+        {"text": "Av. Paulista, 2064 - Bela Vista, São Paulo - SP, 01310-928", "lat": "-23.557473694507337", "long": "-46.65886310287397"},
         {"text": "Av. Paulista, 500 - Bela Vista, São Paulo - SP, 01310-000", "lat": "-23.56776334561749", "long": "-46.64808057981867"},
         {"text": "Av. Paulista, 1499 Lojas 02 e 03 - Bela Vista, São Paulo, 01310-200", "lat": "-23.5622368566953", "long": "-46.65574320680579"},
         {"text": "Av. Paulista, 2026 - Bela Vista, São Paulo - SP, 01310-200", "lat": "-23.558641323908482", "long": "-46.6591402399081"},
